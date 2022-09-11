@@ -16,4 +16,8 @@ while True:
             pygame.quit()
             sys.exit()
     pygame.display.update()
+<<<<<<< HEAD
     # juego 5
+=======
+# hola juego 5    
+>>>>>>> val1
